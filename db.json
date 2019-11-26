@@ -5,16 +5,6 @@
          "number":1,
          "size":30,
          "totalElements":9733
-      },
-      "content":[ 
-         { 
-            "title":"test title",
-            "releaseTimestamp":1574767816,
-            "originatorName":"test originatorName",
-            "originatorId":"test originatorId",
-            "otsKey":"OTS_20191126_OTS0127",
-            "releaseLink":"https://www.ots.at/app/v2/presseaussendung/OTS_20191126_OTS0127"
-         }
-      ]
+      }
    }
 }
