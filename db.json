@@ -1,7 +1,4 @@
 {
-  "emergencyStatusOff": {
-    "statusCode": "503"
-  },
   "page": {
     "hasNext": true,
     "number": 1,
