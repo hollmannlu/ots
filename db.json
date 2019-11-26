@@ -1,10 +1,8 @@
 { 
    "channel":{ 
-      "page":{ 
          "hasNext":true,
          "number":1,
          "size":30,
          "totalElements":9733
-      }
    }
 }
